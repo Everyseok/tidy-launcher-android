@@ -2,6 +2,8 @@
 
 Tidy Launcher is an Android launcher MVP that auto-organizes installed apps into a clean home screen and dual-view app drawer.
 
+Korean version: [README.ko.md](README.ko.md)
+
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0.0-204B57?style=for-the-badge)](https://github.com/Everyseok/tidy-launcher-android/releases/tag/v1.0.0)
 [![Download APK](https://img.shields.io/badge/Download-APK-E08A45?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Everyseok/tidy-launcher-android/releases/download/v1.0.0/tidy-launcher-debug.apk)
 [![Download AAB](https://img.shields.io/badge/Download-AAB-1F2933?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/Everyseok/tidy-launcher-android/releases/download/v1.0.0/tidy-launcher-release.aab)
