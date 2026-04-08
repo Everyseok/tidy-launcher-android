@@ -12,6 +12,8 @@ Quick links:
 - [Direct APK download](https://github.com/Everyseok/tidy-launcher-android/releases/download/v1.0.0/tidy-launcher-debug.apk)
 - [Direct AAB download](https://github.com/Everyseok/tidy-launcher-android/releases/download/v1.0.0/tidy-launcher-release.aab)
 
+APK install: download `tidy-launcher-debug.apk`, open it on your Android device, allow installs from your browser or file manager if prompted, then launch Tidy Launcher and set it as the default Home app.
+
 ## What is implemented
 
 - Jetpack Compose Android app scaffold with launcher/home intent filters
