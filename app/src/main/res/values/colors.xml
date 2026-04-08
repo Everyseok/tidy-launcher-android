@@ -1,0 +1,8 @@
+<resources>
+    <color name="tidy_background">#FFF8F1</color>
+    <color name="tidy_surface">#FFFFFFFF</color>
+    <color name="tidy_primary">#204B57</color>
+    <color name="tidy_secondary">#E08A45</color>
+    <color name="tidy_text">#1F2933</color>
+</resources>
+

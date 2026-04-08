@@ -1,0 +1,47 @@
+Tidy Launcher automatically organizes your Android home screen the moment you set it as your default launcher.
+
+No dragging.
+No folder cleanup marathon.
+No account required.
+No cloud sync.
+
+Tidy Launcher reads the apps already installed on your phone and rebuilds your launcher layout on-device using two smart modes:
+
+- Functional mode: groups apps into folders like Social, Work, Finance, Shopping, Media, Travel, Utilities, Games, Health, and Tools
+- Color mode: arranges apps into folders based on icon color for a cleaner visual look
+
+You can also choose how compact your layout should be:
+
+- 1-page mode: compresses your setup for speed and minimal taps
+- 2-page mode: gives your most important apps more breathing room
+
+Why people use Tidy Launcher:
+
+- Clean up chaotic home screens automatically
+- Keep newly installed apps organized without manual work
+- Find apps faster with a dual-view drawer
+- Stay private with fully local processing
+
+Core features:
+
+- Instant launcher onboarding with a recommended layout
+- Auto-refresh when apps are installed or removed
+- Smart dock and priority app placement
+- App drawer with both functional and color views
+- Search from the home screen
+- English and Korean support
+
+Privacy-first by design:
+
+- No login
+- No analytics
+- No cloud backup
+- No server processing
+- Installed app data stays on your device
+
+Premium:
+
+Tidy Launcher includes the full automatic organizing experience for free. Premium unlocks advanced themes, extra layout presets, saved layout snapshots, and more customization options.
+
+Tidy Launcher does not modify Samsung One UI, Pixel Launcher, or any other OEM launcher in the background. It works as your launcher after you choose it as the default Home app.
+
