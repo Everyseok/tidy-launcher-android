@@ -151,28 +151,6 @@ scripts/capture-emulator-screenshots.sh
 scripts/generate-play-assets.py
 ```
 
-## Current Status
-
-Tidy Launcher is a release-preparation build of an Android launcher MVP. Release artifacts are available on GitHub, but this README intentionally does not describe the app as a fully production-ready launcher.
-
-- [x] Android Home launcher intent filters
-- [x] Jetpack Compose launcher UI
-- [x] Onboarding flow with Home role request
-- [x] Settings screen for sort mode, page mode, and rerun actions
-- [x] Installed-app inventory through Android launcher APIs
-- [x] Function-based app classification
-- [x] Icon color-based classification
-- [x] Recommendation engine
-- [x] Automatic layout planner
-- [x] Dock apps, priority apps, folders, home pages, and drawer sections
-- [x] Package change receiver
-- [x] WorkManager refresh hook
-- [x] APK and AAB release artifacts
-- [ ] Production signing and Play Console release flow
-- [ ] Deeper real-device UX polish
-- [ ] User-customizable pinned apps and folder editing
-- [ ] More robust multilingual classification
-- [ ] Premium feature finalization
 
 ## Roadmap
 
