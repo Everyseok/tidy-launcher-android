@@ -178,6 +178,14 @@ Tidy Launcher is a user-selected launcher replacement. Its package visibility an
 
 The app does not modify OEM launchers in the background, does not silently rearrange another launcher, and does not send installed-app metadata off-device as part of the classification or layout pipeline.
 
+## License
+
+Source code and documentation are licensed under the [Apache License 2.0](LICENSE).
+
+Generated application binaries, APK/AAB release packages, signing materials, Play Store listing materials, screenshots, feature graphics, app icons, trademarks, and branding assets are not automatically licensed for reuse unless explicitly stated otherwise. See [NOTICE](NOTICE).
+
+Third-party dependencies remain governed by their own licenses.
+
 ## Repository Notes
 
 Current release artifacts are published through GitHub Releases:
